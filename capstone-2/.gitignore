@@ -76,7 +76,11 @@ target/
 .ipynb_checkpoints/
 
 # exclude data from source control by default
-/data/raw/*
+/data/raw/train-jpg/*
+/data/raw/train-tif-v2/*
+/data/raw/test_v2_file_mapping.csv
+/data/raw/train_v2.csv
+/data/raw/train-tif-v2.tar
 
 # Mac OS-specific storage files
 .DS_Store
