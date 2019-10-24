@@ -12,7 +12,7 @@ This folder contains the work for my second 'capstone' project. The purpose is t
 
 Reports and notebooks will be available detailing each of the above topics.
 
-This project is a work-in-progress.
+This project is a work-in-progress. Checkout my progress on data wrangling and EDA in reports/data_wrangling_and_eda.ipynb.
 
 Project Organization
 ------------

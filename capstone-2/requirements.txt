@@ -17,3 +17,5 @@ jupyter
 watermark
 plotly
 opencv-python
+tqdm
+sklearn
