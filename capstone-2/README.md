@@ -7,12 +7,12 @@ This folder contains the work for my second 'capstone' project. The purpose is t
 
 - Data wrangling
 - Exploratory data analysis / Data storytelling
-- Statistical data analysis
 - Machine learning
 
-Reports and notebooks will be available detailing each of the above topics.
+Reports and notebooks are available detailing each of the above topics.
 
-This project is a work-in-progress. <b>Checkout my progress on data wrangling and EDA in notebooks/data_wrangling_and_eda.ipynb.</b>
+Checkout my presentation with voiceover on youtube!
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/nVbHEeGEkYI/0.jpg)](http://www.youtube.com/watch?v=nVbHEeGEkYI "Amazon Rainforest Image Classification using Convolutional Neural Networks")
 
 Project Organization
 ------------
@@ -65,4 +65,3 @@ Project Organization
 
 --------
 
-<p><small>Project Organization based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
