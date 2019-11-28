@@ -1,7 +1,5 @@
-capstone-2
-==============================
-
 Amazon Rainforest Satellite Image Classification
+==============================
 
 This folder contains the work for my second 'capstone' project. The purpose is to apply data science techniques to a dataset, including:
 
@@ -11,7 +9,8 @@ This folder contains the work for my second 'capstone' project. The purpose is t
 
 Reports and notebooks are available detailing each of the above topics.
 
-Checkout my presentation with voiceover on youtube!
+Checkout my presentation with voiceover on youtube:
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/nVbHEeGEkYI/0.jpg)](http://www.youtube.com/watch?v=nVbHEeGEkYI "Amazon Rainforest Image Classification using Convolutional Neural Networks")
 
 Project Organization
